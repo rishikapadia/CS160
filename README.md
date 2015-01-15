@@ -20,7 +20,8 @@ User Interface/Experience Design Projects
 [High-Fidelity Mock-Up](http://www.hackster.io/user2184/derivewatch) - Framer.js
 
 
-# Final Project
+Final Project
+-------------
 
 [Group Brainstorm](http://www.hackster.io/2-night-s-watch/the-search-for-brian-storm) - Creative Process
 
