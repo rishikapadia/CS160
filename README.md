@@ -4,7 +4,8 @@ CS 160 - User Interface Design
 [My Page](http://www.hackster.io/user2184)
 
 
-# Programming Projects
+Programming Projects
+--------------------
 
 [Solar Age and Weight Converter](http://www.hackster.io/user2184/prog01-solar-you) - Android
 
