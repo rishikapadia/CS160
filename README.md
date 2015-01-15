@@ -20,7 +20,7 @@ CS 160 - User Interface Design
 
 # Final Project
 
-[]()
+[Group Brainstorm](http://www.hackster.io/2-night-s-watch/the-search-for-brian-storm) - Creative Process
 
-[]()
+[Final Report and Presentation](http://www.hackster.io/nightwatch/watchout) - Report, Presentation, & Android
 
