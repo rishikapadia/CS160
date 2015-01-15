@@ -12,7 +12,8 @@ Programming Projects
 [Free Speech Movement Tribute](http://www.hackster.io/user2184/free-speech-movement-a-tribute) - Android & Qualcomm Toq Watch
 
 
-# User Interface/Experience Design Projects
+User Interface/Experience Design Projects
+-----------------------------------------
 
 [Contextual Inquiry](http://www.hackster.io/user2184/design-01-watches-in-the-wild)
 
