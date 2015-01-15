@@ -13,7 +13,14 @@ CS 160 - User Interface Design
 
 # User Interface/Experience Design Projects
 
+[Contextual Inquiry](http://www.hackster.io/user2184/design-01-watches-in-the-wild)
+
+[High-Fidelity Mock-Up](http://www.hackster.io/user2184/derivewatch) - Framer.js
 
 
 # Final Project
+
+[]()
+
+[]()
 
